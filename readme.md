@@ -19,6 +19,7 @@ This project provides an API for managing schools, allowing users to add schools
 ### Base Url:
 
 [HOSTED/LIVE_URL](https://educase-task-4oy1.onrender.com)
+[Postman_Collection_Invite_Link](https://app.getpostman.com/join-team?invite_code=68484e5a75ec1642dbca495a7dbeb2a0e6954ab2cfa0727e9fc800e1192c9a2d)
 
 ### 1. **Add School**
 
