@@ -18,7 +18,7 @@ This project provides an API for managing schools, allowing users to add schools
 
 ### Base Url:
 
-[HOSTED/LIVE_URL]()
+[HOSTED/LIVE_URL](https://educase-task-4oy1.onrender.com)
 
 ### 1. **Add School**
 
